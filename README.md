@@ -1,2 +1,2 @@
-# Webpack-loaders
-Install Webpack loaders - start To Do List app.
+# Webpack-env-config
+Webpack environment configuration.
